@@ -263,6 +263,7 @@ function App() {
           <div className="price-features">
             <p>✓ Mathématiques</p>
             <p>✓ Physique</p>
+            <p>✓ arabe</p>
             <p>✓ 6 heures par semaine</p>
             <p>✓ Vendredi & Samedi</p>
             <p>✓ Exercices et suivi</p>
